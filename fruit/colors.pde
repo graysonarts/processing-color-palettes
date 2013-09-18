@@ -1,3 +1,4 @@
+String name = "fruit";
 color[] palette = {
    #FC3219,
    #F14508,

@@ -1,3 +1,4 @@
+String name = "seattle";
 color[] palette = {
    #584233,
    #5F4A37,
