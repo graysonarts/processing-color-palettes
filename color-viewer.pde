@@ -8,4 +8,5 @@ void setup(){
         fill(palette[i]);
         rect(i*blockSize, 0, (i+1)*blockSize, height);
     }
+    save("colors.png");
 }
